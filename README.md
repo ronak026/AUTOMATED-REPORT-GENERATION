@@ -1,4 +1,16 @@
-# Task 2 — Sales Performance Report Generator
+# AUTOMATED-REPORT-GENERATION
+
+"Company":CODTECH IT SOLUTIONS
+
+"Name": Ronak Vekariya
+
+"Intern ID":CT04DR535
+
+"Domain":Python Programing
+
+"Duration":4 Weeks
+
+"Mentor":Neela Santosh
 
 A Python script that generates a professional PDF sales performance report from CSV data. It reads sales data, performs basic statistical analysis, and creates a formatted PDF report with tables and insights.
 
@@ -48,6 +60,10 @@ The generated PDF includes:
 - **Title**: "Sales Performance Report"
 - **Summary Statistics Table**: Count, mean, std, min, max, and quartiles for numerical columns
 - **Key Insights**: Average sales figure and top-performing salesperson
+
+## image
+
+<img width="1191" height="938" alt="Screenshot 2025-11-02 101410" src="https://github.com/user-attachments/assets/f01c0b2a-eaa0-4e1c-b322-4d3e41c43e74" />
 
 ## Customization
 
